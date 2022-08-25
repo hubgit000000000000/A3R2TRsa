@@ -3,7 +3,7 @@ game.Loaded:Wait()
 end
 
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wimsies/wimsware/main/snuggleahaha"))()
 DaHoodSettings.Prediction = 0.118
 Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso"}
 Aiming.FOV = 12
