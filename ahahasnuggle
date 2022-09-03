@@ -91,7 +91,7 @@ local _aimsp_settings; _aimsp_settings = {
     max_dist = 9e9, -- 9e9 = very big
     toggle = {
         r_mouse_button = false, -- makes you have to hold right mouse button, keybind will no longer work
-        key = Enum.KeyCode.Q; -- acts as toggle
+        key = Enum.KeyCode.J; -- acts as toggle
     },
     prefer = {
         looking_at_you = false, -- will prefer whoever is looking at you "the most", threat judging
